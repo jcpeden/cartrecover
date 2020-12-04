@@ -16,7 +16,7 @@
     },
     {
       "name": "Tempalte Pack Purchase Form",
-      "recipient": "",
+      "recipient": "john@tweakdigital.co.uk",
       "fields": [
         {
           "label": "Your Name",
