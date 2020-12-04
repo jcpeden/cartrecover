@@ -19,6 +19,12 @@
       "recipient": "",
       "fields": [
         {
+          "label": "Your Name",
+          "inputType": "text",
+          "autocomplete": "name",
+          "_template": "nameInputBlock"
+        },
+        {
           "label": "Your Email",
           "inputType": "text",
           "autocomplete": "email",
