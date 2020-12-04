@@ -7,8 +7,8 @@
     }
   ],
   "hero": {
-    "headline": "Welcome to Tina Grande.",
-    "textline": "This template is filled with sample content to get you started.",
+    "headline": "Cart Recover",
+    "textline": "I create abandoned cart emails for Shopify stores",
     "ctas": [
       {
         "label": "Read The Blog",
@@ -17,7 +17,7 @@
         "arrow": true
       },
       {
-        "label": "Contact Us",
+        "label": "Contact Me",
         "link": "/contact",
         "arrow": false,
         "primary": false
