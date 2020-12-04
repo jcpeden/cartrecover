@@ -31,7 +31,8 @@
           "_template": "messageInputBlock"
         }
       ],
-      "content": ""
+      "content": "",
+      "recipient": "john@tweakdigital.co.uk"
     }
   ],
   "displayTitle": true
