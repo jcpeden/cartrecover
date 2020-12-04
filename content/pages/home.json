@@ -8,17 +8,17 @@
   ],
   "hero": {
     "headline": "Cart Recover",
-    "textline": "Abandoned cart recovery for Shopify stores",
+    "textline": "Abandoned Cart Recovery for Shopify Store Owners ",
     "ctas": [
       {
-        "label": "Contact Me",
+        "label": "Get In Touch",
         "link": "/contact",
         "arrow": false,
         "primary": false
       }
     ],
     "image": "../images/[object Object]",
-    "large": true
+    "large": false
   },
   "displayTitle": false,
   "title": "Home"
