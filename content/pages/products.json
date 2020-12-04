@@ -1,0 +1,18 @@
+{
+  "title": "Products",
+  "path": "/products",
+  "blocks": [
+    {
+      "title": "",
+      "center": false,
+      "underline": true,
+      "_template": "TitleBlock",
+      "content": ""
+    },
+    {
+      "content": "### Abandoned Cart Email Template Pack - $150\n\nRunning a smaller store? No problem! We have you covered on the abandoned cart email front. Our template pack is generic and unbranded but includes instructions showing you how to customise the templates yourself and set up your autoresponder so that your would-be customers automatically get a gentle nudge to come back and complete their purchase from you. We've had clients recover $1000s within a few weeks of setting up a basic sequence using our email template pack and we're always happy to help you get set up as it helps us to improve our product.\n\n  \nIf you'd like something more bespoke, or a done-for-you service then please take a look at our services page.",
+      "center": false,
+      "_template": "ContentBlock"
+    }
+  ]
+}
