@@ -1,6 +1,10 @@
 {
   "menuItems": [
     {
+      "label": "Products",
+      "link": "/products"
+    },
+    {
       "label": "Home",
       "link": "/"
     },
