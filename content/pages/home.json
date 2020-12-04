@@ -8,14 +8,8 @@
   ],
   "hero": {
     "headline": "Cart Recover",
-    "textline": "I create abandoned cart emails for Shopify stores",
+    "textline": "Abandoned cart recovery for Shopify stores",
     "ctas": [
-      {
-        "label": "Read The Blog",
-        "link": "/blog",
-        "primary": true,
-        "arrow": true
-      },
       {
         "label": "Contact Me",
         "link": "/contact",
@@ -23,7 +17,7 @@
         "primary": false
       }
     ],
-    "image": "../images/cafe-2.jpg",
+    "image": "../images/",
     "large": true
   },
   "displayTitle": false,
