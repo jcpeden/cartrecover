@@ -15,6 +15,11 @@
       "_template": "ContentBlock"
     },
     {
+      "content": "### Buy Now\n\nFill in your name and email below to complete your purchase.",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
       "name": "Template Pack Purchase Form",
       "recipient": "john@tweakdigital.co.uk",
       "fields": [
