@@ -1,0 +1,18 @@
+{
+  "title": "Services",
+  "path": "/services",
+  "blocks": [
+    {
+      "title": "",
+      "center": false,
+      "underline": true,
+      "_template": "TitleBlock",
+      "content": ""
+    },
+    {
+      "content": "### Email Creation - $495\n\nIf you're looking for something more bespoke than the cart recover template pack, then we can create a sequence of three emails for you using your site's branding and your store's USPs. All of our emails are cross-browser and cross-device tested so you can literally take the HTML that we'll send and drop it straight into your autoresponder.\n\n_Delivery in 3-5 days._\n\n### Abandoned Cart Sequence Setup - $995\n\nIf you're running a larger store or if you just don't want to hassle of tinkering with your autoresponder, we can create a three-email sequence for your as above but also set up and configure your autoresponder as well. We'll monitor your campaign for 30 days after it goes live to ensure everything is working as it should and can set up an experiment to run during that time.\n\n_Delivery in 5-7 days_\n\n### Abandoned Cart Email Optimisation - $495/month\n\nOnce your email marketing sequence is setup, we can monitor and tune it for optimum performance. This allows you to run experiments each month to figure out what works best for your customers. Should you offer free shipping? Should you send your emails over a longer period of time? Should you offer a discount to try and win them back? All of these questions can be answered.\n\n### Let's Work Together\n\nGet in touch using the [contact form]() and we can arrange a call to figure out what works for you.",
+      "center": false,
+      "_template": "ContentBlock"
+    }
+  ]
+}
