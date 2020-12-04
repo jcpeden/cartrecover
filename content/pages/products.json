@@ -10,34 +10,9 @@
       "content": ""
     },
     {
-      "content": "### Abandoned Cart Email Template Pack - $150\n\nRunning a smaller store? No problem! We have you covered on the abandoned cart email front. Our template pack is generic and unbranded but includes instructions showing you how to customise the templates yourself and set up your autoresponder so that your would-be customers automatically get a gentle nudge to come back and complete their purchase from you. We've had clients recover $1000s within a few weeks of setting up a basic sequence using our email template pack and we're always happy to help you get set up as it helps us to improve our product.\n\n ",
+      "content": "### Abandoned Cart Email Template Pack - $150\n\nRunning a smaller store? No problem! We have you covered on the abandoned cart email front. Our template pack is generic and unbranded but includes instructions showing you how to customise the templates yourself and set up your autoresponder so that your would-be customers automatically get a gentle nudge to come back and complete their purchase from you. We've had clients recover $1000s within a few weeks of setting up a basic sequence using our email template pack and we're always happy to help you get set up as it helps us to improve our product.\n\n[Buy Now](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3X5ZUXTWT9LRW)\n\nIf you'd like something more bespoke then take a look at our [services](/services).",
       "center": false,
       "_template": "ContentBlock"
-    },
-    {
-      "content": "### Buy Now\n\nFill in your name and email below to complete your purchase.",
-      "center": false,
-      "_template": "ContentBlock"
-    },
-    {
-      "name": "Template Pack Purchase Form",
-      "recipient": "john@tweakdigital.co.uk",
-      "fields": [
-        {
-          "label": "Your Name",
-          "inputType": "text",
-          "autocomplete": "name",
-          "_template": "nameInputBlock"
-        },
-        {
-          "label": "Your Email",
-          "inputType": "text",
-          "autocomplete": "email",
-          "_template": "emailInputBlock"
-        }
-      ],
-      "_template": "FormBlock",
-      "content": ""
     }
   ]
 }

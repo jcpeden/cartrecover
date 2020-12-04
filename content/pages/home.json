@@ -3,7 +3,7 @@
   "blocks": [
     {
       "_template": "ContentBlock",
-      "content": "## What We Do\n\nWe work with Shopify store owners to help them recover their abandoned carts. We offer a couple of different packages ranging from a DIY option for small stores through to a more bespoke service if you're really busy and just want us to set up an automated recovery sequence for you.\n\n## Why you should care\n\nThe simple fact of the matter is, it's actually really straightforward to set up a cart abandonment email marketing sequence. Many stores are losing over 70% of their customers after they add products to their shopping cart so even recovering just a small percentage of them can really add up."
+      "content": "## What We Do\n\nWe work with Shopify store owners to help them recover their abandoned carts. \n\nWe offer an [abandoned cart email template pack](/products) for small stores through to a range of more bespoke [services]() if you're really busy and just want us to set up an automated recovery sequence for you.\n\n## Why you should care\n\nThe simple fact of the matter is, it's actually really straightforward to set up a cart abandonment email marketing sequence. Many stores are losing over 70% of their customers after they add products to their shopping cart so even recovering just a small percentage of them can really add up."
     }
   ],
   "hero": {
@@ -11,13 +11,18 @@
     "textline": "Abandoned Cart Recovery for Shopify Store Owners ",
     "ctas": [
       {
-        "label": "Get In Touch",
+        "label": "Services",
+        "link": "/services",
+        "primary": true
+      },
+      {
+        "label": "Get in Touch",
         "link": "/contact",
         "arrow": false,
         "primary": false
       }
     ],
-    "image": "../images/[object Object]",
+    "image": "../images/shopping.jpg",
     "large": false
   },
   "displayTitle": false,
